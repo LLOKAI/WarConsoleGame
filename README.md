@@ -1,4 +1,4 @@
-This is one of my first "big" projects.
+This is one of my first projects.
 It is a simple console game that simulates the entirety of a game of 'WAR' which is a popular card game.
 
 RULES
